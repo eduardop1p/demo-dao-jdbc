@@ -1,0 +1,60 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Eclipse specific files
+.metadata/
+bin/
+tmp/
+*.tmp
+*.bak
+
+# IntelliJ IDEA specific files
+.idea/
+*.iml
+*.iws
+out/
+*.class
+
+# NetBeans specific files
+nbproject/
+build/
+nbbuild/
+dist/
+nbdist/
+private/
+*.class
+
+# Maven specific files
+target/
+
+# Gradle specific files
+.gradle/
+build/
+
+# JRebel specific files
+.jrebel/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+*.swp
+*.swo
+*.swn
+*.swa
+
+# Other
+*.jar
+*.war
+*.ear
+*.zip
+*.tar
+*.gz
+*.7z
